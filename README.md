@@ -14,7 +14,7 @@ You can smack these swords around pretty hard and they won't break or deform. Ad
 - Lithium Ion Cylindrical Battery - 3.7v 2200mAh
 - Colorful Square Tactile Button Switch
 - On-Off-On-Off Alternating Power Button / Pushbutton 3-Way Toggle
-- White LEDs
+- White LEDs (in the hilt to indicate powered-on state)
 
 ### Structural components:
 
