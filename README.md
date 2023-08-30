@@ -26,7 +26,7 @@ You can smack these swords around pretty hard and they won't break or deform. Ad
 - Two nails to pin the PVC and polycarbonate tube together inside the cross-guard and to pin the pommel on the PVC. (TODO: A single tube would likely be an improvement)
 
 Assembly suggestions:
-- Use relatively dense LEDs and get enough to fill the entire lenth of the blade. You can get 2x the length for a brighter sword - if you do, I recommend cutting and re-splicing at the end to avoid bending the LED strip, which can lead to issues.
+- Use relatively dense LEDs and get enough to fill the entire lenth of the blade. You can get 2x the length for a brighter sword (LEDs facing forward and back) - if you do, I recommend cutting and re-splicing at the end to avoid bending the LED strip, which can lead to issues.
   - The pommel (sword_end and sword_end_gem) houses the battery. There is space in the "gem" to house white LEDs which can be wired to light up when the sword has power. 
   - TODO: Make the gem and pommel fit more securely. TODO: Add an easy externally accessible charging port so that you don't have to open the trinket compartment to charge.
 - The cross-guard houses most other components - it has two voids for the two caddies: one for buttons and one for the trinket.
