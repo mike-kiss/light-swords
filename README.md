@@ -1,3 +1,5 @@
+<img src="https://github.com/mike-kiss/light-swords/blob/main/sword_on.jpg?raw=true" />
+
 # Sword2
 STL and SKP files for the light-up sword.
 
